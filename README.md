@@ -1,17 +1,17 @@
 # ChuckJokesVue
 
-Este proyecto muestra una lista de frases divertidas de Chuck Norris usando Vue.js.
+Aplicación en Vue que muestra frases de Chuck Norris en tarjetas estilizadas con Bootstrap.
 
-## Características
+## Novedades en la Tarea 10
 
-- Aplicación construida con Vue 2.
-- Uso de `v-for` para iterar la lista de frases.
-- Estilo moderno y atractivo con CSS personalizado.
+- Se creó un componente Vue llamado `<chuck-card>`.
+- Se utilizaron `props` para pasar datos (`icon_url` y `value`) al componente.
+- Diseño responsive usando Bootstrap (3 tarjetas por fila, 1 en pantallas pequeñas).
+- Actualización completa en el repositorio.
 
 ## Capturas
 
-
-![Vista previa](capturas/vista1.png)
+![Vista previa](capturas/tarjetas.png)
 
 ## URL del proyecto en GitHub
 
